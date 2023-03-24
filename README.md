@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hi there 👋
 
 
-### I'm Georgiy Usynin
+## I'm Georgiy Usynin
 
 - I’m currently working on data analysis of various advertising projects
 - I’m currently learning Data Science at Yandex Practicum
 
-## Connect with me: 
+### Connect with me: 
 - eMail: george174@mail.ru
 - Telegram: @georgiius
 
-## Languages and Tools:
+### Languages and Tools:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
