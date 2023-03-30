@@ -7,8 +7,9 @@
 - I’m currently learning Data Science at Yandex Practicum
 
 ### Connect with me: 
-- eMail: george174@mail.ru
 - Telegram:[@georgiius](https://t.me/georgiius) 
+- eMail: george174@mail.ru
+
 
 ### Languages and Tools:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
