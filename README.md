@@ -4,7 +4,6 @@
 ## I'm Georgiy Usynin
 
 - I’m currently working on data analysis of various advertising projects
-- I’m currently learning Data Science at Yandex Practicum
 
 ### Connect with me: 
 - Telegram:[@georgiius](https://t.me/georgiius) 
