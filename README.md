@@ -24,4 +24,6 @@
 
 
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-8A2BE2)
-![JavaScript](https://img.shields.io/badge/-SwiftData-003f5c)
+![SwiftUI](https://img.shields.io/badge/-SwiftData-003f5c)
+![MapKit](https://img.shields.io/badge/-SwiftData-003f5c)
+![ARKit](https://img.shields.io/badge/-SwiftData-003f5c)
