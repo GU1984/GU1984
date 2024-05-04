@@ -3,7 +3,10 @@
 
 ## I'm Georgiy Usynin
 
-- I’m currently working on AR project, REF project using SwiftUI
+- I'm currently working on several projects:
+  - AR-project (Nasa Spacecraft)
+  - TrevelApp (SwiftData + MapKit)
+  - App for forum (SwiftData, Firebase + MapKit)
 
 ### Connect with me: 
 - Telegram:[@georgiius](https://t.me/georgiius) 
