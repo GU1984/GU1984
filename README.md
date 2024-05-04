@@ -21,5 +21,7 @@
 ![AppStore](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)
 ![Realm](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white)
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SWIFTUI-8A2BE2)
-![JavaScript](https://img.shields.io/badge/-JavaScript-003f5c)
+
+
+![SwiftUI](https://img.shields.io/badge/SwiftUI-8A2BE2)
+![JavaScript](https://img.shields.io/badge/-Swift Data-003f5c)
