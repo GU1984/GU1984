@@ -130,14 +130,12 @@
 
 ## SolarSystemQUIZ
 ![quizICON](https://github.com/GU1984/GU1984/assets/45098537/c8470a36-acd6-4f20-a509-ab3e0def1f33)
-[SolarSystemQUIZ](#SolarSystemQUIZ) 
 <a name="SolarSystemQUIZ"></a> 
 
 ### About app
 
 
 ### iPhone
-![MemorizeAPP](https://github.com/GU1984/GU1984/assets/45098537/b717aa5e-af11-43d4-89db-ff931186c69c)
 
 
 [Back to projects](#Projects) 
@@ -150,7 +148,8 @@
 
 
 ### iPhone
-![MemorizeAPP](https://github.com/GU1984/GU1984/assets/45098537/671c9e8e-7768-4e58-af5a-c4b41a79e10e)
+![MemorizeAPP](https://github.com/GU1984/GU1984/assets/45098537/789707d4-38d3-46df-b528-45bfe12e2061)
+
 
 
 ### Stack
