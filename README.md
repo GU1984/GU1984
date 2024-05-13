@@ -33,6 +33,7 @@
 
 
 # Projects
+<a name="Projects"></a> 
 
 
 | № | Проект                                  | Устройства     | Язык           | Описание       | 
@@ -47,20 +48,44 @@
 
 ## Russian Economic Forum 2023
 <a name="REF2023"></a> 
+### Описание
 
 
+### iPhone
 
+
+### iPad
+
+[Back to projects](#Projects) 
 
 ## AR Spacecraft
 <a name="ARSpacecraft"></a> 
+### Описание
+
+### iPhone
+
+
+### iPad
+
+[Back to projects](#Projects) 
 
 
 
-<a name="CocktailList"></a> 
 ## CocktailList
+<a name="CocktailList"></a> 
 
+
+### Описание
+
+
+### iPhone
+![CocktailsIPHONE](https://github.com/GU1984/GU1984/assets/45098537/b3d25bfc-de0f-48ca-9f3b-ab3d7c671a35)
+
+
+### iPad
 ![CocktailsIPAD](https://github.com/GU1984/GU1984/assets/45098537/636d6e06-c1df-4b95-877e-fae576b63366)
 ![CocktailsIPAD_2](https://github.com/GU1984/GU1984/assets/45098537/7e75e8f3-3987-4eda-9082-56ce6f42b9d1)
+
 
 
 
@@ -69,13 +94,37 @@
 ## WorldNews
 <a name="WorldNews"></a> 
 
+### Описание
 
+### iPhone
+
+
+### iPad
+
+[Back to projects](#Projects) 
 
 ## SolarSystemQUIZ
 <a name="SolarSystemQUIZ"></a> 
 
+### Описание
+
+### iPhone
 
 
+### iPad
+
+[Back to projects](#Projects) 
 
 ## MemorizeSpacecrafts
 <a name="MemorizeSpacecrafts"></a> 
+
+
+### Описание
+
+### iPhone
+
+
+### iPad
+
+[Back to projects](#Projects) 
+
