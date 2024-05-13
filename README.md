@@ -39,7 +39,7 @@
 | 2 | [AR Spacecraft](#ARSpacecraft) | iPhone, iPad| RU | AR приложение c дополненной реальностью помогающая изучать космичеcкие аппараты изучающиее Солнечную ситему|
 | 3 | [CocktailList](#CocktailList) | iPhone, iPad| ENG | Мини приложение позволяет проверить насколько хооршо ты занешь нашу солнечную систему|
 | 4 | [WorldNews](#WorldNews) | iPhone, iPad| RU | Приложение на основе newsApi.org адапт ированное на все устройства  |
-| 5 | [SolarSystemQUIZ](#SolarSystemQUIZ) | iPhone| ENG | Мини приложение позволяет проверить насколько хооршо ты занешь нашу солнечную систему|
+| 5 | [SolarSystemQUIZ](#SolarSystemQUIZ) | iPhone| ENG | Мини приложение позволяет проверить насколько хорjшо ты занешь нашу солнечную систему|
 | 6 | [MemorizeSpacecrafts](#MemorizeSpacecrafts ) | iPhone| ENG | Мини приложение  на основе стэнфордского курса посвщяенного SwiftUI |
 
 
