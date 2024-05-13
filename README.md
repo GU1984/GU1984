@@ -35,23 +35,39 @@
 
 | № | Проект                                  | Устройства     | Язык           | Описание       | 
 | - |  -------------------------------------- | :------------- | :------------- | :------------- |
-| 1 | [Russian Economic Forum 2023](https://github.com/georgeusynin1984) | iPhone| RU | Приложение посвященное РЭФ 2023 прошедшее в Челябинске |
-| 2 | [AR Spacecraft](https://github.com/georgeusynin1984) | iPhone, iPad| RU | AR gриложение c дополненной реальностью помогающая изучать космичеcкие аппараты изучающиее Солнечную ситему|
-| 3 | [CocktailList](https://github.com/georgeusynin1984) | iPhone| ENG | Мини приложение позволяет проверить насколько хооршо ты занешь нашу солнечную систему|
-| 4 | [SolarSystemQUIZ](https://github.com/georgeusynin1984) | iPhone| ENG | Мини приложение позволяет проверить насколько хооршо ты занешь нашу солнечную систему|
-| 5 | [MemorizeSpacecrafts](#MemorizeSpacecrafts ) | iPhone| ENG | Мини приложение  на основе стэнфордского курса посвщяенного SwiftUI |
+| 1 | [Russian Economic Forum 2023](#REF2023) | iPhone| RU | Приложение посвященное РЭФ 2023 прошедшее в Челябинске |
+| 2 | [AR Spacecraft](#ARSpacecraft) | iPhone, iPad| RU | AR приложение c дополненной реальностью помогающая изучать космичеcкие аппараты изучающиее Солнечную ситему|
+| 3 | [CocktailList](#CocktailList) | iPhone, iPad| ENG | Мини приложение позволяет проверить насколько хооршо ты занешь нашу солнечную систему|
+| 4 | [WorldNews](#WorldNews) | iPhone, iPad| RU | Приложение на основе newsApi.org адапт ированное на все устройства  |
+| 5 | [SolarSystemQUIZ](#SolarSystemQUIZ) | iPhone| ENG | Мини приложение позволяет проверить насколько хооршо ты занешь нашу солнечную систему|
+| 6 | [MemorizeSpacecrafts](#MemorizeSpacecrafts ) | iPhone| ENG | Мини приложение  на основе стэнфордского курса посвщяенного SwiftUI |
 
 
 # Russian Economic Forum 2023
+<a name="REF2023"></a> 
+
 
 
 
 # AR Spacecraft
+<a name="ARSpacecraft"></a> 
+
+
+
 
 # CocktailList
+<a name="CocktailList"></a> 
+
+
+
+# WorldNews
+<a name="WorldNews"></a> 
+
 
 
 # SolarSystemQUIZ
+<a name="SolarSystemQUIZ"></a> 
+
 
 
 
