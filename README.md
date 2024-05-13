@@ -36,7 +36,7 @@
 <a name="Projects"></a> 
 
 
-| № | Проект                                  | Устройства     | Язык           | Описание       | 
+| № | Application                             | Devices        | Language       | About          | 
 | - |  -------------------------------------- | :------------- | :------------- | :------------- |
 | 1 | [Russian Economic Forum 2023](#REF2023) | iPhone| RU | Приложение посвященное РЭФ 2023 прошедшее в Челябинске |
 | 2 | [AR Spacecraft](#ARSpacecraft) | iPhone, iPad| RU | AR приложение c дополненной реальностью помогающая изучать космичеcкие аппараты изучающиее Солнечную ситему|
@@ -48,24 +48,30 @@
 
 ## Russian Economic Forum 2023
 <a name="REF2023"></a> 
-### Описание
+### About app
 
 
-### iPhone
+### iPhone views
 
 
-### iPad
+### Stack
+
 
 [Back to projects](#Projects) 
 
 ## AR Spacecraft
 <a name="ARSpacecraft"></a> 
-### Описание
+### About app
 
 ### iPhone
 
 
 ### iPad
+
+
+### Stack
+
+
 
 [Back to projects](#Projects) 
 
@@ -75,7 +81,7 @@
 <a name="CocktailList"></a> 
 
 
-### Описание
+### About app
 
 
 ### iPhone
@@ -87,26 +93,36 @@
 ![CocktailsIPAD_2](https://github.com/GU1984/GU1984/assets/45098537/7e75e8f3-3987-4eda-9082-56ce6f42b9d1)
 
 
+### Stack
 
 
+[Back to projects](#Projects) 
 
 
 ## WorldNews
 <a name="WorldNews"></a> 
 
-### Описание
+### About app
 
 ### iPhone
 
 
 ### iPad
 
+
+### Mac
+
+
+### Stack
+
+
 [Back to projects](#Projects) 
 
 ## SolarSystemQUIZ
 <a name="SolarSystemQUIZ"></a> 
 
-### Описание
+### About app
+
 
 ### iPhone
 
@@ -118,13 +134,13 @@
 ## MemorizeSpacecrafts
 <a name="MemorizeSpacecrafts"></a> 
 
+### About app
 
-### Описание
 
 ### iPhone
 
 
-### iPad
+### Stack
 
 [Back to projects](#Projects) 
 
