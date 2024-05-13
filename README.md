@@ -53,7 +53,9 @@
 ## Russian Economic Forum 2023
 ![refICON](https://github.com/GU1984/GU1984/assets/45098537/8b117ff0-7938-40e0-84a0-49e53862c844)
 <a name="REF2023"></a> 
+
 Приложение посвященное РЭФ 2023 прошедшее в Челябинске.
+
 **Stack:**
 ![SwiftUI](https://img.shields.io/badge/MapKit-003f5c)
 ![SwiftUI](https://img.shields.io/badge/SwiftData-003f5c)
