@@ -44,7 +44,7 @@
 | 4 |![newsICON](https://github.com/GU1984/GU1984/assets/45098537/fa817927-27fc-4230-9e59-fe8b4481ed5a) |[WorldNews](#WorldNews) | Приложение новости на основе newsApi.org адапт ированное на все устройства  | iPhone, iPad, Mac, TV, Watch | SwiftUI, REST API, App Storeage, Concurrency | ENG |
 | 3 | |[SolarSystemQUIZ](#SolarSystemQUIZ) |  Мини приложение позволяет проверить насколько хорjшо ты занешь нашу солнечную систему| iPhone| SwiftUI, FireBase | ENG |
 | 2 | |[MemorizeSpacecrafts](#MemorizeSpacecrafts) |  Мини приложение  на основе стэнфордского курса посвщяенного SwiftUI | iPhone| SwiftUI| ENG |
-| 1 | | [Exercises](https://github.com/GU1984/SwiftUI/tree/main/Exercises) |  Различные упражнения посвященные АНИМАЦИИ в SwiftUI. Копилка знаний | iPhone| SwiftUI| ENG |
+| 1 | ![memoryICON](https://github.com/GU1984/GU1984/assets/45098537/aa420d21-26da-4009-9803-15c828b180f4) | [Exercises](https://github.com/GU1984/SwiftUI/tree/main/Exercises) |  Различные упражнения посвященные АНИМАЦИИ в SwiftUI. Копилка знаний | iPhone| SwiftUI| ENG |
 
 
 
@@ -142,6 +142,7 @@
 [Back to projects](#Projects) 
 
 ## MemorizeSpacecrafts
+![memoryICON](https://github.com/GU1984/GU1984/assets/45098537/aa420d21-26da-4009-9803-15c828b180f4)
 <a name="MemorizeSpacecrafts"></a> 
 
 ### About app
