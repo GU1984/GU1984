@@ -47,10 +47,11 @@
 
 
 
-## Russian Economic Forum 2023 
+## Russian Economic Forum 2023
+![refICON](https://github.com/GU1984/GU1984/assets/45098537/8b117ff0-7938-40e0-84a0-49e53862c844)
 <a name="REF2023"></a> 
 ### About app
-![refICON](https://github.com/GU1984/GU1984/assets/45098537/8b117ff0-7938-40e0-84a0-49e53862c844)
+
 
 
 ### iPhone views
@@ -80,11 +81,12 @@
 
 
 ## CocktailList
+![cocktailsICON](https://github.com/GU1984/GU1984/assets/45098537/17334da1-f5cf-4772-9b79-2cf1adfb6234)
 <a name="CocktailList"></a> 
 
 
 ### About app
-![cocktailsICON](https://github.com/GU1984/GU1984/assets/45098537/17334da1-f5cf-4772-9b79-2cf1adfb6234)
+
 
 
 ### iPhone
