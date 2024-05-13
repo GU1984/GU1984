@@ -163,7 +163,7 @@
 
 [Back to projects](#Projects) 
 
-### Stack
+#### Stack
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-003f5c)
 ![SwiftUI](https://img.shields.io/badge/-Firebase-003f5c)
 ![SwiftUI](https://img.shields.io/badge/-Async/Await-003f5c)
@@ -171,6 +171,8 @@
 
 ### MemorizeSpacecrafts
 ![memoryICON](https://github.com/GU1984/GU1984/assets/45098537/aa420d21-26da-4009-9803-15c828b180f4)
+#### Stack:
+![SwiftUI](https://img.shields.io/badge/SwiftUI-003f5c)
 <a name="MemorizeSpacecrafts"></a> 
 
 Приложение на основе курса SwiftUI Spring 2022 Стэнфордского университета.
@@ -187,7 +189,6 @@
 </p>
 
 
-#### Stack:
-![SwiftUI](https://img.shields.io/badge/SwiftUI-003f5c)
+
 
 [Back to projects](#Projects) 
