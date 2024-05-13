@@ -129,7 +129,8 @@
 [Back to projects](#Projects) 
 
 ## SolarSystemQUIZ
-![quizICON](https://github.com/GU1984/GU1984/assets/45098537/c8470a36-acd6-4f20-a509-ab3e0def1f33)|[SolarSystemQUIZ](#SolarSystemQUIZ) 
+![quizICON](https://github.com/GU1984/GU1984/assets/45098537/c8470a36-acd6-4f20-a509-ab3e0def1f33)
+[SolarSystemQUIZ](#SolarSystemQUIZ) 
 <a name="SolarSystemQUIZ"></a> 
 
 ### About app
