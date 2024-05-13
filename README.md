@@ -148,7 +148,8 @@
 
 
 ### iPhone
-![MemorizeAPP](https://github.com/GU1984/GU1984/assets/45098537/789707d4-38d3-46df-b528-45bfe12e2061)
+![MemorizeAPP](https://github.com/GU1984/GU1984/assets/45098537/6597ee26-22b1-46a0-b3ab-9057cc3e3180)
+
 
 
 
