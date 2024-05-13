@@ -77,7 +77,7 @@
 
 
 
-## CocktailList
+## ![coctails_Icon1](https://github.com/GU1984/GU1984/assets/45098537/fc84098d-a40d-4826-ae77-88809f727088) CocktailList
 <a name="CocktailList"></a> 
 
 
@@ -88,7 +88,7 @@
 ![CocktailsIPHONE](https://github.com/GU1984/GU1984/assets/45098537/b3d25bfc-de0f-48ca-9f3b-ab3d7c671a35)
 
 
-![coctails_Icon1](https://github.com/GU1984/GU1984/assets/45098537/fc84098d-a40d-4826-ae77-88809f727088)
+
 ### iPad
 ![CocktailsIPAD](https://github.com/GU1984/GU1984/assets/45098537/636d6e06-c1df-4b95-877e-fae576b63366)
 ![CocktailsIPAD_2](https://github.com/GU1984/GU1984/assets/45098537/7e75e8f3-3987-4eda-9082-56ce6f42b9d1)
