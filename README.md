@@ -41,7 +41,7 @@
 | 7 |![refICON](https://github.com/GU1984/GU1984/assets/45098537/8b117ff0-7938-40e0-84a0-49e53862c844) | [Russian Economic Forum 2023](#REF2023) | Приложение посвященное РЭФ 2023 прошедшее в Челябинске | iPhone|  MapKit, SwiftData, FireBase, SwiftUI, Concurrency | RU |
 | 6 ||[AR Spacecraft](#ARSpacecraft) | AR приложение c дополненной реальностью помогающая изучать космичеcкие аппараты изучающиее Солнечную ситему| iPhone, iPad| ARKit, RealityKit, SwiftUI, REST API, Concurrency | RU | 
 | 5 | ![cocktailsICON](https://github.com/GU1984/GU1984/assets/45098537/17334da1-f5cf-4772-9b79-2cf1adfb6234)|[CocktailList](#CocktailList) | Приложение содержащие более 500 коктейлей. Повзоляет искать коктейли по категориям и ингидентам. Сохранять понравившиеся коктейли| iPhone, iPad| SwiftUI, REST API, App Storeage, Concurrency| ENG |
-| 4 | |[WorldNews](#WorldNews) | Приложение новости на основе newsApi.org адапт ированное на все устройства  | iPhone, iPad, Mac, TV, Watch | SwiftUI, REST API, App Storeage, Concurrency | ENG |
+| 4 |![newsICON](https://github.com/GU1984/GU1984/assets/45098537/fa817927-27fc-4230-9e59-fe8b4481ed5a) |[WorldNews](#WorldNews) | Приложение новости на основе newsApi.org адапт ированное на все устройства  | iPhone, iPad, Mac, TV, Watch | SwiftUI, REST API, App Storeage, Concurrency | ENG |
 | 3 | |[SolarSystemQUIZ](#SolarSystemQUIZ) |  Мини приложение позволяет проверить насколько хорjшо ты занешь нашу солнечную систему| iPhone| SwiftUI, FireBase | ENG |
 | 2 | |[MemorizeSpacecrafts](#MemorizeSpacecrafts) |  Мини приложение  на основе стэнфордского курса посвщяенного SwiftUI | iPhone| SwiftUI| ENG |
 | 1 | | [Exercises](https://github.com/GU1984/SwiftUI/tree/main/Exercises) |  Различные упражнения посвященные АНИМАЦИИ в SwiftUI. Копилка знаний | iPhone| SwiftUI| ENG |
@@ -109,6 +109,7 @@
 
 
 ## WorldNews
+![newsICON](https://github.com/GU1984/GU1984/assets/45098537/fa817927-27fc-4230-9e59-fe8b4481ed5a) 
 <a name="WorldNews"></a> 
 
 ### About app
