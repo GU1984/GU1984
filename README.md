@@ -153,7 +153,9 @@
 
 
 #### 2
-<img src="https://github.com/GU1984/GU1984/assets/45098537/366b8402-c4b7-41cc-83af-89e70758969f.mp4" width="200">
+<p align="center" width="100%">
+    <img src="https://github.com/GU1984/GU1984/assets/45098537/366b8402-c4b7-41cc-83af-89e70758969f.mp4" width="200">
+</p>
 
 
 
