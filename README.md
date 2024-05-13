@@ -44,7 +44,7 @@
 | 4 | |[WorldNews](#WorldNews) | Приложение новости на основе newsApi.org адапт ированное на все устройства  | iPhone, iPad, Mac, TV, Watch | SwiftUI, REST API, App Storeage, Concurrency | ENG |
 | 3 | |[SolarSystemQUIZ](#SolarSystemQUIZ) |  Мини приложение позволяет проверить насколько хорjшо ты занешь нашу солнечную систему| iPhone| SwiftUI, FireBase | ENG |
 | 2 | |[MemorizeSpacecrafts](#MemorizeSpacecrafts) |  Мини приложение  на основе стэнфордского курса посвщяенного SwiftUI | iPhone| SwiftUI| ENG |
-| 1 | |![Exercises](https://github.com/GU1984/SwiftUI/tree/main/Exercises) |  Различные упражнения посвященные АНИМАЦИИ в SwiftUI. Копилка знаний | iPhone| SwiftUI| ENG |
+| 1 | | [Exercises](https://github.com/GU1984/SwiftUI/tree/main/Exercises) |  Различные упражнения посвященные АНИМАЦИИ в SwiftUI. Копилка знаний | iPhone| SwiftUI| ENG |
 
 
 
