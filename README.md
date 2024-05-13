@@ -59,7 +59,8 @@
 
 ## CocktailList
 <a name="CocktailList"></a> 
-![Uploading CocktailsIPAD.png…]()
+![CocktailsIPAD](https://github.com/GU1984/GU1984/assets/45098537/636d6e06-c1df-4b95-877e-fae576b63366)
+
 
 
 
