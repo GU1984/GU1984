@@ -60,6 +60,8 @@
 ## CocktailList
 <a name="CocktailList"></a> 
 ![CocktailsIPAD](https://github.com/GU1984/GU1984/assets/45098537/636d6e06-c1df-4b95-877e-fae576b63366)
+![CocktailsIPAD_2](https://github.com/GU1984/GU1984/assets/45098537/7e75e8f3-3987-4eda-9082-56ce6f42b9d1)
+
 
 
 
