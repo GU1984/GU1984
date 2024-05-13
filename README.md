@@ -29,3 +29,12 @@
 ![SwiftUI](https://img.shields.io/badge/-MapKit-003f5c)
 ![SwiftUI](https://img.shields.io/badge/-Combine-003f5c)
 ![SwiftUI](https://img.shields.io/badge/-Async/Await-003f5c)
+
+
+
+
+| № | Проект                                  | Устройства     | Язык           | Описание       | 
+| - |  -------------------------------------- | :------------- | :------------- | :------------- |
+| 1 | [Russian Economic Forum 2023](https://github.com/georgeusynin1984) | iPhone| RU | Приложение посвященное РЭФ 2023 прошедшее в Челябинске |
+| 2 | [AR Spacecraft](https://github.com/georgeusynin1984) | iPhone, iPad| RU | Приложение c дополненной реальностью помогающая изучать космичекие аппараты изучающиее Солнечную ситему|
+| 3 | [SolarSystemQUIZ](https://github.com/georgeusynin1984) | iPhone| ENG | МИни приложение позволяет проверить насколько хооршо ты занешь нашу солнечную систему|
