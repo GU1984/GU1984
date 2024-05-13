@@ -175,15 +175,19 @@
 
 Приложение на основе курса SwiftUI Spring 2022 Стэнфордского университета.
 
+
 Отличия от оригинального курса:
 - Эмодзи заменены на кратинки. Тематика Космические корабли иследующие солнечную систему.Фотографии с сайта Nasa.gov
 - Добавлен оригинаолны селектор темы игры на основе SwiftUI 4.0
+
 
 ![MemorizeAPP](https://github.com/GU1984/GU1984/assets/45098537/6597ee26-22b1-46a0-b3ab-9057cc3e3180)
 <p align="center" width="100%">
   <img src="https://github.com/GU1984/GU1984/assets/45098537/366b8402-c4b7-41cc-83af-89e70758969f.mp4" width="200">
 </p>
 
+
 ### Stack
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-003f5c)
+
 [Back to projects](#Projects) 
