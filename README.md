@@ -163,11 +163,23 @@
 
 [Back to projects](#Projects) 
 
+### Stack
+![SwiftUI](https://img.shields.io/badge/SwiftUI-003f5c)
+![SwiftUI](https://img.shields.io/badge/-Firebase-003f5c)
+![SwiftUI](https://img.shields.io/badge/-Async/Await-003f5c)
+
+
 ## MemorizeSpacecrafts
 ![memoryICON](https://github.com/GU1984/GU1984/assets/45098537/aa420d21-26da-4009-9803-15c828b180f4)
 <a name="MemorizeSpacecrafts"></a> 
 
 ### About app
+Приложение на основе курса SwiftUI Spring 2022 Стэнфордского университета.
+
+Отлияия от оригинального курса:
+- Эмодзи заменениы на кратинки. Тематика Космические корабли иследующие солнечную систему
+- Добавлен оригинаолны селектор темы игры на основе SwiftUI 4.0
+
 
 
 ### iPhone
@@ -177,7 +189,7 @@
 </p>
 
 ### Stack
-![SwiftUI](https://img.shields.io/badge/SwiftUI-8A2BE2)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-003f5c)
 
 [Back to projects](#Projects) 
 
