@@ -40,8 +40,7 @@
 | - |  - | -------------------------------------- | :------------- | :------------- | :------------- |
 | 1 | | [Russian Economic Forum 2023](#REF2023) | iPhone| RU | Приложение посвященное РЭФ 2023 прошедшее в Челябинске |
 | 2 | |[AR Spacecraft](#ARSpacecraft) | iPhone, iPad| RU | AR приложение c дополненной реальностью помогающая изучать космичеcкие аппараты изучающиее Солнечную ситему|
-| 3 | ![cocktailsICON](https://github.com/GU1984/GU1984/assets/45098537/d2f03faf-f4e8-48e3-8188-aa5ef7ade413)
-|[CocktailList](#CocktailList) | iPhone, iPad| ENG | Приложение содержащие более 500 коктейлей. ПОовзоляет искать коктейли по категориям и ингидентам. Сохранять понравившиеся коктейли|
+| 3 | ![cocktailsICON](https://github.com/GU1984/GU1984/assets/45098537/d2f03faf-f4e8-48e3-8188-aa5ef7ade413) |[CocktailList](#CocktailList) | iPhone, iPad| ENG | Приложение содержащие более 500 коктейлей. ПОовзоляет искать коктейли по категориям и ингидентам. Сохранять понравившиеся коктейли|
 | 4 | |[WorldNews](#WorldNews) | iPhone, iPad, Mac, TV, Watch| ENG | Приложение новости на основе newsApi.org адапт ированное на все устройства  |
 | 5 | |[SolarSystemQUIZ](#SolarSystemQUIZ) | iPhone| ENG | Мини приложение позволяет проверить насколько хорjшо ты занешь нашу солнечную систему|
 | 6 | |[MemorizeSpacecrafts](#MemorizeSpacecrafts ) | iPhone| ENG | Мини приложение  на основе стэнфордского курса посвщяенного SwiftUI |
@@ -83,7 +82,7 @@
 
 
 ### About app
-![coctails_Icon1](https://github.com/GU1984/GU1984/assets/45098537/11d7c1cb-6d94-4729-ad5c-859034badb8e)
+(https://github.com/GU1984/GU1984/assets/45098537/d2f03faf-f4e8-48e3-8188-aa5ef7ade413)
 
 
 ### iPhone
