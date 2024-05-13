@@ -151,14 +151,10 @@
 ![MemorizeAPP](https://github.com/GU1984/GU1984/assets/45098537/6597ee26-22b1-46a0-b3ab-9057cc3e3180)
 
 
-#### 1
-https://github.com/GU1984/GU1984/assets/45098537/366b8402-c4b7-41cc-83af-89e70758969f
 
 #### 2
 <img src="https://github.com/GU1984/GU1984/assets/45098537/366b8402-c4b7-41cc-83af-89e70758969f.mp4" width="200">
 
-#### 3
-<img src="https://user-images.githubusercontent.com/45098537/229730961-a89655ea-796a-4e2a-8901-867c8b81ff28.mp4" width="150">
 
 
 ### Stack
