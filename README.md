@@ -149,6 +149,7 @@
 
 
 ### iPhone
+![MemorizeAPP](https://github.com/GU1984/GU1984/assets/45098537/671c9e8e-7768-4e58-af5a-c4b41a79e10e)
 
 
 ### Stack
