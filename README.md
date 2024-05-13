@@ -54,6 +54,8 @@
 ![refICON](https://github.com/GU1984/GU1984/assets/45098537/8b117ff0-7938-40e0-84a0-49e53862c844)
 <a name="REF2023"></a> 
 ### About app
+**Stack:**
+![SwiftUI](https://img.shields.io/badge/SwiftUI-003f5c)
 
 
 ### iPhone
@@ -61,14 +63,14 @@
   <img src="" width="200">
 </p>
 
-### Stack
-
 
 [Back to projects](#Projects) 
 
 ## AR Spacecraft
 <a name="ARSpacecraft"></a> 
 ### About app
+**Stack:**
+![SwiftUI](https://img.shields.io/badge/SwiftUI-003f5c)
 
 
 ### iPhone
@@ -81,8 +83,6 @@
   <img src="" width="200">
 </p>
 
-### Stack
-
 
 
 [Back to projects](#Projects) 
@@ -93,6 +93,8 @@
 ![cocktailsICON](https://github.com/GU1984/GU1984/assets/45098537/17334da1-f5cf-4772-9b79-2cf1adfb6234)
 <a name="CocktailList"></a> 
 ### About app
+**Stack:**
+![SwiftUI](https://img.shields.io/badge/SwiftUI-003f5c)
 
 
 
@@ -112,7 +114,6 @@
   <img src="" width="200">
 </p>
 
-### Stack
 
 
 [Back to projects](#Projects) 
@@ -123,6 +124,8 @@
 <a name="WorldNews"></a> 
 
 ### About app
+**Stack:**
+![SwiftUI](https://img.shields.io/badge/SwiftUI-003f5c)
 
 ### iPhone
 ### iPhone
@@ -142,10 +145,6 @@
   <img src="" width="200">
 </p>
 
-
-### Stack
-
-
 [Back to projects](#Projects) 
 
 ## SolarSystemQUIZ
@@ -153,6 +152,11 @@
 <a name="SolarSystemQUIZ"></a> 
 
 ### About app
+
+**Stack:**
+![SwiftUI](https://img.shields.io/badge/SwiftUI-003f5c)
+![SwiftUI](https://img.shields.io/badge/-Firebase-003f5c)
+![SwiftUI](https://img.shields.io/badge/-Async/Await-003f5c)
 
 
 ### iPhone
@@ -162,11 +166,6 @@
 
 
 [Back to projects](#Projects) 
-
-#### Stack
-![SwiftUI](https://img.shields.io/badge/SwiftUI-003f5c)
-![SwiftUI](https://img.shields.io/badge/-Firebase-003f5c)
-![SwiftUI](https://img.shields.io/badge/-Async/Await-003f5c)
 
 
 ### MemorizeSpacecrafts
@@ -180,7 +179,7 @@
 - Эмодзи заменены на кратинки. Тематика Космические корабли иследующие солнечную систему.Фотографии с сайта Nasa.gov
 - Добавлен оригинаолны селектор темы игры на основе SwiftUI 4.0
 
-**Stack:** ![SwiftUI](https://img.shields.io/badge/SwiftUI-003f5c)
+
 
 
 ![MemorizeAPP](https://github.com/GU1984/GU1984/assets/45098537/6597ee26-22b1-46a0-b3ab-9057cc3e3180)
