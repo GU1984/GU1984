@@ -57,8 +57,10 @@
 
 
 
-### iPhone views
-
+### iPhone
+<p align="center" width="100%">
+  <img src="https://github.com/GU1984/GU1984/assets/45098537/366b8402-c4b7-41cc-83af-89e70758969f.mp4" width="200">
+</p>
 
 ### Stack
 
@@ -70,10 +72,14 @@
 ### About app
 
 ### iPhone
-
+<p align="center" width="100%">
+  <img src="https://github.com/GU1984/GU1984/assets/45098537/366b8402-c4b7-41cc-83af-89e70758969f.mp4" width="200">
+</p>
 
 ### iPad
-
+<p align="center" width="100%">
+  <img src="https://github.com/GU1984/GU1984/assets/45098537/366b8402-c4b7-41cc-83af-89e70758969f.mp4" width="200">
+</p>
 
 ### Stack
 
@@ -86,21 +92,23 @@
 ## CocktailList
 ![cocktailsICON](https://github.com/GU1984/GU1984/assets/45098537/17334da1-f5cf-4772-9b79-2cf1adfb6234)
 <a name="CocktailList"></a> 
-
-
 ### About app
 
 
 
 ### iPhone
 ![CocktailsIPHONE](https://github.com/GU1984/GU1984/assets/45098537/b3d25bfc-de0f-48ca-9f3b-ab3d7c671a35)
-
+<p align="center" width="100%">
+  <img src="https://github.com/GU1984/GU1984/assets/45098537/366b8402-c4b7-41cc-83af-89e70758969f.mp4" width="200">
+</p>
 
 
 ### iPad
 ![CocktailsIPAD](https://github.com/GU1984/GU1984/assets/45098537/636d6e06-c1df-4b95-877e-fae576b63366)
 ![CocktailsIPAD_2](https://github.com/GU1984/GU1984/assets/45098537/7e75e8f3-3987-4eda-9082-56ce6f42b9d1)
-
+<p align="center" width="100%">
+  <img src="https://github.com/GU1984/GU1984/assets/45098537/366b8402-c4b7-41cc-83af-89e70758969f.mp4" width="200">
+</p>
 
 ### Stack
 
@@ -115,12 +123,19 @@
 ### About app
 
 ### iPhone
-
+<p align="center" width="100%">
+  <img src="https://github.com/GU1984/GU1984/assets/45098537/366b8402-c4b7-41cc-83af-89e70758969f.mp4" width="200">
+</p>
 
 ### iPad
-
+<p align="center" width="100%">
+  <img src="https://github.com/GU1984/GU1984/assets/45098537/366b8402-c4b7-41cc-83af-89e70758969f.mp4" width="200">
+</p>
 
 ### Mac
+<p align="center" width="100%">
+  <img src="https://github.com/GU1984/GU1984/assets/45098537/366b8402-c4b7-41cc-83af-89e70758969f.mp4" width="200">
+</p>
 
 
 ### Stack
@@ -136,6 +151,9 @@
 
 
 ### iPhone
+<p align="center" width="100%">
+  <img src="https://github.com/GU1984/GU1984/assets/45098537/366b8402-c4b7-41cc-83af-89e70758969f.mp4" width="200">
+</p>
 
 
 [Back to projects](#Projects) 
@@ -148,11 +166,9 @@
 
 
 ### iPhone
-<p align="center" width="100%">
-  ![MemorizeAPP](https://github.com/GU1984/GU1984/assets/45098537/6597ee26-22b1-46a0-b3ab-9057cc3e3180)
+![MemorizeAPP](https://github.com/GU1984/GU1984/assets/45098537/6597ee26-22b1-46a0-b3ab-9057cc3e3180)
 
-  <img src="https://github.com/GU1984/GU1984/assets/45098537/366b8402-c4b7-41cc-83af-89e70758969f.mp4" width="200">
-</p>
+
 
 
 
