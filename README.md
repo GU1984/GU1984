@@ -154,6 +154,7 @@
 
 
 ### Stack
+![SwiftUI](https://img.shields.io/badge/SwiftUI-8A2BE2)
 
 [Back to projects](#Projects) 
 
