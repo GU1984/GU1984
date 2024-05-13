@@ -82,7 +82,7 @@
 
 
 ### About app
-(https://github.com/GU1984/GU1984/assets/45098537/d2f03faf-f4e8-48e3-8188-aa5ef7ade413)
+![cocktailsICON](https://github.com/GU1984/GU1984/assets/45098537/d2f03faf-f4e8-48e3-8188-aa5ef7ade413)
 
 
 ### iPhone
