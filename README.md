@@ -136,9 +136,8 @@
 
 
 ### iPhone
+![MemorizeAPP](https://github.com/GU1984/GU1984/assets/45098537/b717aa5e-af11-43d4-89db-ff931186c69c)
 
-
-### iPad
 
 [Back to projects](#Projects) 
 
