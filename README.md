@@ -37,11 +37,11 @@
 
 
 | № |     | Application                            | Devices        | Language       | About          | 
-| - |  -- | -------------------------------------- | :------------- | :------------- | :------------- |
-| 1 | ![coctails_Icon1](https://github.com/GU1984/GU1984/assets/45098537/0493e720-7830-4973-976a-1d95ae940af0) | [Russian Economic Forum 2023](#REF2023) | iPhone| RU | Приложение посвященное РЭФ 2023 прошедшее в Челябинске |
+| - |  - | -------------------------------------- | :------------- | :------------- | :------------- |
+| 1 | | [Russian Economic Forum 2023](#REF2023) | iPhone| RU | Приложение посвященное РЭФ 2023 прошедшее в Челябинске |
 | 2 | |[AR Spacecraft](#ARSpacecraft) | iPhone, iPad| RU | AR приложение c дополненной реальностью помогающая изучать космичеcкие аппараты изучающиее Солнечную ситему|
-| 3 | |[CocktailList](#CocktailList) | iPhone, iPad| ENG | Мини приложение позволяет проверить насколько хооршо ты занешь нашу солнечную систему|
-| 4 | |[WorldNews](#WorldNews) | iPhone, iPad, Mac, TV, Watch| ENG | Приложение на основе newsApi.org адапт ированное на все устройства  |
+| 3 | ![coctails_Icon1](https://github.com/GU1984/GU1984/assets/45098537/0493e720-7830-4973-976a-1d95ae940af0)|[CocktailList](#CocktailList) | iPhone, iPad| ENG | Приложение содержащие более 500 коктейлей. ПОовзоляет искать коктейли по категориям и ингидентам. Сохранять понравившиеся коктейли|
+| 4 | |[WorldNews](#WorldNews) | iPhone, iPad, Mac, TV, Watch| ENG | Приложение новости на основе newsApi.org адапт ированное на все устройства  |
 | 5 | |[SolarSystemQUIZ](#SolarSystemQUIZ) | iPhone| ENG | Мини приложение позволяет проверить насколько хорjшо ты занешь нашу солнечную систему|
 | 6 | |[MemorizeSpacecrafts](#MemorizeSpacecrafts ) | iPhone| ENG | Мини приложение  на основе стэнфордского курса посвщяенного SwiftUI |
 
