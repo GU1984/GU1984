@@ -5,8 +5,9 @@
 
 - I'm currently working on several projects:
   - AR-project (Nasa Spacecraft)
-  - TrevelApp (SwiftData + MapKit)
-  - App for forum (SwiftData, Firebase + MapKit)
+  - App for forum (SwiftData, Firebase, MapKit)
+  - CocktailApp
+  
 
 ### Connect with me: 
 - Telegram:[@georgiius](https://t.me/georgiius) 
