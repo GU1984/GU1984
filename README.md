@@ -151,7 +151,7 @@
 ![MemorizeAPP](https://github.com/GU1984/GU1984/assets/45098537/6597ee26-22b1-46a0-b3ab-9057cc3e3180)
 
 
-<img src="[https://user-images.githubusercontent.com/45098537/229730961-a89655ea-796a-4e2a-8901-867c8b81ff28.mp4](https://github.com/GU1984/GU1984/assets/45098537/8efc02dc-d075-40d6-9b92-c234bac94782)" width="200">
+<img src="[https://github.com/GU1984/GU1984/assets/45098537/8efc02dc-d075-40d6-9b92-c234bac94782]" width="200">
 
 
 
