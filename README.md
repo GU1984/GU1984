@@ -179,7 +179,8 @@ AR приложение c дополненной реальностью помо
 ![SwiftUI](https://img.shields.io/badge/-Async/Await-003f5c)
 
 
-![quiz](https://github.com/GU1984/GU1984/assets/45098537/28c1f847-9abe-4d14-932b-eda227ede472)
+![Uploading quiz.png…]()
+
 
 <p align="center" width="100%">
   <img src="" width="200">
