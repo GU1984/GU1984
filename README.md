@@ -223,9 +223,9 @@ AR приложение c дополненной реальностью, пом�
 
 
 ![MemorizeAPP](https://github.com/GU1984/GU1984/assets/45098537/6597ee26-22b1-46a0-b3ab-9057cc3e3180)
-<p align="center" width="50%">
-  <video src="https://github.com/GU1984/GU1984/assets/45098537/366b8402-c4b7-41cc-83af-89e70758969f.mp4" width="200">
-</p>
+<div align="center" width="50%">
+  <video src="https://github.com/GU1984/GU1984/assets/45098537/366b8402-c4b7-41cc-83af-89e70758969f.mp4" width="200" />
+</div>
 
 
 
