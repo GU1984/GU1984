@@ -149,7 +149,7 @@ AR приложение c дополненной реальностью, пом�
 
 ### iPad
 ![CocktailsIPAD](https://github.com/GU1984/GU1984/assets/45098537/636d6e06-c1df-4b95-877e-fae576b63366)
-![CocktailsIPAD_2](https://github.com/GU1984/GU1984/assets/45098537/7e75e8f3-3987-4eda-9082-56ce6f42b9d1)
+![Screenshot 2024-05-15 at 14 00 55](https://github.com/GU1984/GU1984/assets/45098537/bd1b8453-8c6f-46c5-8eb3-dff1b622efc8)
 ![cocktailsIPAD_3](https://github.com/GU1984/GU1984/assets/45098537/e6b4a9bc-43a3-4003-8af6-fd9ffeedd940)
 
 
