@@ -102,7 +102,7 @@ AR приложение c дополненной реальностью, пом�
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-003f5c)
 
 
-### iPhone
+<img width="1105" alt="ARIPHONE" src="https://github.com/GU1984/GU1984/assets/45098537/d90f7508-bb0d-4670-96ef-e46b40257b93">
 
 
 ### iPad
