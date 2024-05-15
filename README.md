@@ -107,6 +107,13 @@ AR приложение c дополненной реальностью, пом�
 
 ### iPad
 
+### Video
+
+<div align="center" width="50%">
+  <video src="https://github.com/GU1984/GU1984/assets/45098537/8689b487-509c-45c7-8f14-e77532bdbb67.mp4" width="200" />
+
+  <video src="https://github.com/GU1984/GU1984/assets/45098537/8d092da3-58b7-4e70-b8cd-3a8cca15ded8.mp4" width="200" />
+</div>
 
 
 [Back to projects](#Projects) 
