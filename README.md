@@ -211,6 +211,12 @@ AR приложение c дополненной реальностью, пом�
 
 ![quiz](https://github.com/GU1984/GU1984/assets/45098537/80e2953f-0241-47fd-b9a4-0739744b7c5b)
 
+
+
+<div align="center" width="50%">
+  <video src="https://github.com/GU1984/GU1984/assets/45098537/330ed8ae-10a3-4e1d-9a70-4f9af8c8fe1d.mp4" width="200" />
+</div>
+
 [Back to projects](#Projects) 
 
 
