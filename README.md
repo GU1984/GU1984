@@ -152,11 +152,6 @@ AR приложение c дополненной реальностью, пом�
 ![Screenshot 2024-05-15 at 14 00 55](https://github.com/GU1984/GU1984/assets/45098537/bd1b8453-8c6f-46c5-8eb3-dff1b622efc8)
 ![cocktailsIPAD_3](https://github.com/GU1984/GU1984/assets/45098537/e6b4a9bc-43a3-4003-8af6-fd9ffeedd940)
 
-
-
-https://github.com/GU1984/GU1984/assets/45098537/c2617bc5-e99c-4ee3-bd55-b49650cf9cfa
-
-
 <div align="center" width="50%">
   <video src=https://github.com/GU1984/GU1984/assets/45098537/c2617bc5-e99c-4ee3-bd55-b49650cf9cfa.mp4" width="200" />
 </div>
