@@ -56,6 +56,12 @@
 
 Приложение посвященное РЭФ 2023 прошедшее в Челябинске.
 
+Вся информация о мероприятии:
+- программа,
+- спикеры,
+- акрредитованные гостиницы,
+- достопримечательности челябмнска рекомендованные к посещению.
+
 **Stack:**
 ![SwiftUI](https://img.shields.io/badge/MapKit-003f5c)
 ![SwiftUI](https://img.shields.io/badge/SwiftData-003f5c)
@@ -65,7 +71,7 @@
 
 
 
-### iPhone
+![REF_GIT](https://github.com/GU1984/GU1984/assets/45098537/c8f6a508-0774-4b42-a99d-838b32e347b5)
 
 
 [Back to projects](#Projects) 
