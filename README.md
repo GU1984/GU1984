@@ -81,8 +81,8 @@
  - кастом таббар
  - аниимация на карте при выборе объекта
 
-|  1  |  2  |  3  |  4  |  5  |
-| :-- | :-- | :-- | :-- | :-- |
+|  header  |  tab  |  paralax H  |  paralax V  |  map |
+| :--: | :--: | :--: | :--: | :--: |
 |  <video src="https://github.com/GU1984/GU1984/assets/45098537/5680a649-df4a-47e9-9911-513a5451edf2.mp4" width="150" />  | <video src="https://github.com/GU1984/GU1984/assets/45098537/42a33861-4dc3-49b0-a588-15bde8ef32d8.mp4" width="150" /> | <video src="https://github.com/GU1984/GU1984/assets/45098537/fad596d0-e298-4bd3-bcf1-1ed668c8ebaa.mp4" width="150" /> | <video src="https://github.com/GU1984/GU1984/assets/45098537/a2bd2eac-59c9-439d-9886-fcdee789db1c.mp4" width="150" /> | <video src="https://github.com/GU1984/GU1984/assets/45098537/5c3e455b-9de1-44ff-bb21-7c03c2ca4ce0.mp4" width="150" />  |
 
   
