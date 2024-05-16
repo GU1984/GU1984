@@ -60,10 +60,11 @@
 - программа,
 - спикеры,
 - акрредитованные гостиницы,
-- достопримечательности челябмнска рекомендованные к посещению.
+- достопримечательности Челябинска рекомендованные к посещению.
 
 **Stack:**
 ![SwiftUI](https://img.shields.io/badge/MapKit-003f5c)
+![SwiftUI](https://img.shields.io/badge/EventKit-003f5c)
 ![SwiftUI](https://img.shields.io/badge/SwiftData-003f5c)
 ![SwiftUI](https://img.shields.io/badge/FireBase-003f5c)
 ![SwiftUI](https://img.shields.io/badge/Concurrency-003f5c)
@@ -72,6 +73,19 @@
 
 
 ![REF_GIT](https://github.com/GU1984/GU1984/assets/45098537/c8f6a508-0774-4b42-a99d-838b32e347b5)
+
+ Анимации
+ - логотип перехожящий в а заголовок
+ - паралакс эффект при горизонтального скролинге
+ - паралакс эффект при вертикальном скролинге
+ - кастом таббар
+ - аниимация на карте при выборе объекта
+|   |   |   |   |   |   |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|<video src=".mp4" width="200" /> <video src="https://github.com/GU1984/GU1984/assets/45098537/5680a649-df4a-47e9-9911-513a5451edf2.mp4" width="200" /> |<video src="https://github.com/GU1984/GU1984/assets/45098537/42a33861-4dc3-49b0-a588-15bde8ef32d8.mp4" width="200" /> |<video src="https://github.com/GU1984/GU1984/assets/45098537/fad596d0-e298-4bd3-bcf1-1ed668c8ebaa.mp4" width="200" /> |<video src="https://github.com/GU1984/GU1984/assets/45098537/a2bd2eac-59c9-439d-9886-fcdee789db1c.mp4" width="200" /> |<video src="https://github.com/GU1984/GU1984/assets/45098537/5c3e455b-9de1-44ff-bb21-7c03c2ca4ce0.mp4" width="200" /> |
+
+
+
 
 
 [Back to projects](#Projects) 
