@@ -28,6 +28,9 @@
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-8A2BE2)
 ![SwiftUI](https://img.shields.io/badge/-SwiftData-003f5c)
 ![SwiftUI](https://img.shields.io/badge/-MapKit-003f5c)
+![SwiftUI](https://img.shields.io/badge/-EventKit-003f5c)
+![SwiftUI](https://img.shields.io/badge/-ARKit-003f5c)
+![SwiftUI](https://img.shields.io/badge/-RealityKit-003f5c)
 ![SwiftUI](https://img.shields.io/badge/-Combine-003f5c)
 ![SwiftUI](https://img.shields.io/badge/-Async/Await-003f5c)
 
