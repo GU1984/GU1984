@@ -214,7 +214,8 @@ AR приложение c дополненной реальностью, пом�
 ![SwiftUI](https://img.shields.io/badge/Concurrency-003f5c)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-003f5c)
 
-### iPhone
+
+![newsPhone](https://github.com/GU1984/GU1984/assets/45098537/a62e047c-03c5-4b2c-94e6-f8d3022e5869)
 
 
 ### iPad
